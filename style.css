@@ -1,0 +1,173 @@
+*{
+    
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+  font-family: arial;
+  background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidw01B6F8tB7GiKrs-RkXJfNSNSceA6kuOS_bXnAVEn4ZPkt41yh2B6ZWRMEILCk1gkPhv1Gg0HJ1vpCuV-GK-RQUw_GJi2gNCZCNbUVZ65w1r4OMG2NvSPEmDObtLMRpFaRK77FiqmFCRjMJHo5B1_7UFfRFYJ3i4za4-DcZwYc5mZvvVVMGBSxfL4w/s320/asm2.png);
+} 
+
+
+h5{
+  
+  text-align: center;
+}
+
+i{
+  float: right;
+  font-size: xx-large;
+  margin-top: 0px;
+}
+i:hover{
+  color: red !important;
+}
+
+
+
+.btn-gray{
+    background-color: #cafff872 !important;
+
+}
+
+
+.bg-orange {
+    background-color: #FFB744 !important;
+
+}
+
+
+a:link {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(43, 43, 43);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+.form-login{
+    width: 400px;
+    height: 400px;
+    background: #424242cc;
+    margin: auto;
+    margin-top: 180px;
+    box-shadow: 7px 13px 37px #000;
+    padding: 20px 30px;
+    border-top: 4px solid #FFB744;
+    color: white;
+    border-radius: 15px;
+    
+   }
+
+   .form-login h5{
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+    
+}
+
+    .controls{
+        width: 100%;
+        border: 1px solid #FFB744;
+        margin-bottom: 15px;
+        padding: 11px 10px;
+        background: #474747d5;
+        font-size: 14px;
+        font-weight: bold;
+        border-radius: 15px;
+       }
+
+       .buttons{
+        width: 100%;
+        height: 40px;
+        background: #FFB744;
+        border: none;
+        color: rgb(255, 255, 255);
+        margin-bottom: 16px;
+        border-radius: 15px;
+       }
+
+       .form-login p{
+        height: 40px;
+        text-align: center;
+        border-bottom: 1px solid;
+       }
+
+       .form-login a{
+        color: white;
+        text-decoration: none;
+        font-size: 14px;
+       }
+       .form-login a:hover{
+        text-decoration: underline;
+    }
+
+    .form-mg{
+      width: 800px;
+      height: 350px;
+      background: #4141416d;
+      margin: auto;
+      margin-top: 80px;
+      margin-bottom: 100px;
+      box-shadow: 7px 13px 37px rgb(108, 108, 108);
+      padding: 20px 30px;
+      border-top: 4px solid #FFB744;
+      color: white;
+      border-radius: 15px;
+     }
+     .form-mg h5{
+      margin: 0;
+      text-align: center;
+      height: 40px;
+      margin-bottom: 30px;
+      border-bottom: 1px solid;
+      font-size: 20px;
+
+    }
+    .imagen{
+      width: 600px;
+      height: 400px;
+      margin-top: 20px;
+      margin-left: 20px;
+      float: left;
+      margin-bottom: 40px;
+    }
+    
+   .lista{
+     margin-left: 60px;
+     margin-top: 20px;
+   }
+  
+   p {
+   
+    margin-left: 25%;
+    margin-right: 25%;
+   
+    
+  }
+   
+    
+  
